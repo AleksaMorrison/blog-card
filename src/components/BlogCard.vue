@@ -63,7 +63,8 @@
       color: var(--gray950);
       margin: 0;
 
-      &:hover{
+      &:hover,
+      &:focus{
         color: var(--yellow);
       }
     }

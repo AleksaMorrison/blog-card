@@ -1,35 +1,34 @@
-# blog
+# Frontend Mentor - Blog preview card solution
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Recommended IDE Setup
+## Table of contents
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  
+### The challenge
 
-## Customize configuration
+Users should be able to:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- See hover and focus states for all interactive elements on the page
 
-## Project Setup
+### Screenshot
 
-```sh
-npm install
-```
+![](/screenshot.jpg)
 
-### Compile and Hot-Reload for Development
+### Links
 
-```sh
-npm run dev
-```
+- Solution URL: [Add solution URL here](https://github.com/AleksaMorrison/blog-card)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-### Compile and Minify for Production
+### Built with
 
-```sh
-npm run build
-```
+- Semantic HTML5 markup
+- SASS/SCSS
+- Flexbox
+- Mobile-first workflow
+- [Vue](https://vuejs.org/) - JS library
 
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
